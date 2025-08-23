@@ -13,6 +13,7 @@ public class Re {
         }
 
         System.out.println("The reversed string is " + rev);
+        sc.close();
     }
 }
 
