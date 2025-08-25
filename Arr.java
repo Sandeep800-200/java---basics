@@ -18,6 +18,9 @@ System.out.println("the sum of elements of array is"+ sum);
 return sum;
 }
 
-
     
 }
+
+
+    
+
