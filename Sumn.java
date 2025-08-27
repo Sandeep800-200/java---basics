@@ -11,7 +11,7 @@ public static int sum(int n)
             System.out.println("enter thr number to be added :- ");
             int e = sc.nextInt();
             s=s+e;
-        
+        sc.close();
         }
         return s;
     }
@@ -22,7 +22,7 @@ public static int sum(int n)
         int n = sc.nextInt();
         int s = sum(n);
 System.out.println("sum of "+ n + "natural number is "+ s);
-
+sc.close();
     }
 }
 
